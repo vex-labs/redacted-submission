@@ -2,7 +2,9 @@
 
 As you can see this repo contains no code. That's because we have a load of code and they are seperated into a load of different repos for ease of viewing. Here is a list of all repos that are included as part of our hackathon submission, some repos were started before the hackathon since this is a pre-existing project but we will make it obvious what was added during the hackathon! Please see our devpost for details on each element and why betVEX as a whole is an awesome project!
 
-The project is hosted at TODO
+Demo https://youtu.be/-7H39i4q2ug
+
+The project is hosted at https://betvex.vercel.app/
 
 - [Betting and staking system](https://github.com/vex-labs/vex-contract), during the hackathon the staking system was added in [this PR](https://github.com/vex-labs/vex-contract/pull/26).
 - [Frontend](https://github.com/vex-labs/vex-frontend), most of the frontend was added during the hackathon but there was some pre-existing code, code was added from [this commit](https://github.com/vex-labs/vex-frontend/commit/30646d3f5ad8555b4f5f100aba6ac5de2ba8a621) onwards.
